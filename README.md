@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umer Rafiq</h1>
 <h3 align="center">
-Final Year B.Tech CSE Student | University of Kashmir (North Campus)
+Final Year B.Tech CSE Student
+University of Kashmir
+North Campus
 </h3>
 
 <p align="center">
