@@ -2,7 +2,7 @@
 <h3 align="center">
 Final Year B.Tech CSE Student
 University of Kashmir
-North Campus
+<div>North Campus</div>
 </h3>
 
 <p align="center">
